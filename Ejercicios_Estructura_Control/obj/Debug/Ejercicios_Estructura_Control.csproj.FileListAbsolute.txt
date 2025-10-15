@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Ficha_3147910\Ejercicios_Estructura_Control\bin\Debug\Ejercicios_Estructura_Control.exe.config
+C:\Users\User\source\repos\Ficha_3147910\Ejercicios_Estructura_Control\bin\Debug\Ejercicios_Estructura_Control.exe
+C:\Users\User\source\repos\Ficha_3147910\Ejercicios_Estructura_Control\bin\Debug\Ejercicios_Estructura_Control.pdb
+C:\Users\User\source\repos\Ficha_3147910\Ejercicios_Estructura_Control\obj\Debug\Ejercicios_Estructura_Control.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Ficha_3147910\Ejercicios_Estructura_Control\obj\Debug\Ejercicios_Estructura_Control.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Ficha_3147910\Ejercicios_Estructura_Control\obj\Debug\Ejercicios_Estructura_Control.exe
+C:\Users\User\source\repos\Ficha_3147910\Ejercicios_Estructura_Control\obj\Debug\Ejercicios_Estructura_Control.pdb

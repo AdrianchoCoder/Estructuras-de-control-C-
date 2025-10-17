@@ -1,0 +1,8 @@
+C:\Users\USUARIO\source\repos\EjerciciosCsharpSena\EjerciciosCsharpSena\bin\Debug\EjerciciosCsharpSena.exe.config
+C:\Users\USUARIO\source\repos\EjerciciosCsharpSena\EjerciciosCsharpSena\bin\Debug\EjerciciosCsharpSena.exe
+C:\Users\USUARIO\source\repos\EjerciciosCsharpSena\EjerciciosCsharpSena\bin\Debug\EjerciciosCsharpSena.pdb
+C:\Users\USUARIO\source\repos\EjerciciosCsharpSena\EjerciciosCsharpSena\obj\Debug\EjerciciosCsharpSena.csproj.AssemblyReference.cache
+C:\Users\USUARIO\source\repos\EjerciciosCsharpSena\EjerciciosCsharpSena\obj\Debug\EjerciciosCsharpSena.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\EjerciciosCsharpSena\EjerciciosCsharpSena\obj\Debug\EjerciciosCsharpSena.exe
+C:\Users\USUARIO\source\repos\EjerciciosCsharpSena\EjerciciosCsharpSena\obj\Debug\EjerciciosCsharpSena.pdb
+C:\Users\USUARIO\source\repos\EjerciciosCsharpSena\EjerciciosCsharpSena\obj\Debug\EjerciciosCsharpSena.exe.config
